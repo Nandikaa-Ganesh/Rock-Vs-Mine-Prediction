@@ -1,4 +1,4 @@
-**Project Summary: Rock vs. Mine Prediction**
+# **Project Summary: Rock vs. Mine Prediction**
 
 **Objective:**
 The project focuses on predicting whether sonar readings correspond to rocks or mines using various machine learning models.
