@@ -1,9 +1,9 @@
 # **Project Summary: Rock vs. Mine Prediction**
 
-**Objective:**
+## **Objective:**
 The project focuses on predicting whether sonar readings correspond to rocks or mines using various machine learning models.
 
-**Models Utilized:**
+## **Models Utilized:**
 1. **Logistic Regression:**
    - A linear model estimating the probability of belonging to a particular class.
 
@@ -21,8 +21,14 @@ The project focuses on predicting whether sonar readings correspond to rocks or 
 
 6. **Gradient Boosting:**
    - Ensemble technique building sequential trees to correct errors of previous models.
+  
+7. **K-Nearest Neighbors (KNN):**
+   - A non-parametric algorithm classifying instances based on the classes of their k nearest neighbors.
+   
+8. **Decision Tree:**
+   - A tree-like model making decisions based on features to classify instances.
 
-**Evaluation Metrics:**
+## **Evaluation Metrics:**
 
 - **Accuracy:**
   - Formula: `(TP + TN) / (TP + TN + FP + FN)`
@@ -48,10 +54,3 @@ The project focuses on predicting whether sonar readings correspond to rocks or 
 
 - **Correlation Matrix:**
   - Measures the linear relationship between features.
-
-**Repository Usage:**
-- The GitHub repository includes scripts for data preprocessing, model training, and evaluation.
-- Model hyperparameters, data sources, and key project details are documented in the repository.
-- Detailed explanations, visualizations, and comparative analyses are provided for model performance.
-
-Feel free to customize the above summary based on specific details from your project. This provides a comprehensive overview for users visiting your GitHub repository.
